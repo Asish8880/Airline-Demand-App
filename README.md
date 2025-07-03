@@ -6,18 +6,18 @@ This project is a Python-based web application that analyzes real-time airline m
 
 ## Setup Instructions
 
-### 1.Clone the repository
+### 1. Clone the repository
 git clone https://github.com/Asish8880/Airline-Demand-App.git
 
 cd Airline-Demand-App
 
-### 2.Install Requirements
+### 2. Install Requirements
 pip install -r requirements.txt
 
-### 3.Set your AviationStack API key
+### 3. Set your AviationStack API key
 Edit the app.py file and replace:
 API_KEY = "YOUR_API_KEY"
 
-### 4.Run the app locally
+### 4. Run the app locally
 streamlit run app.py
 
